@@ -37,16 +37,23 @@ Optionally, choose a background image.
 ## Output:
 
 A personalized greeting card is saved as a PNG file (e.g., card.png).
+
 An audio file (e.g., card_message.mp3) is created for the card message.
+
 Result: Share the card digitally or print it for physical use.
 
 ## Example
 Input:
 Recipient Name: Nivedha
+
 Message: "Happy Birthday Dear! Love you, Stay blessed!"
+
 Background Color: yellow
+
 Border Color: black
+
 Border Width: 10 pixels
 ## Output:
 A beautiful birthday card with the entered details.
+
 An audio file named card_message.mp3 with the message.
